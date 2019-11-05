@@ -1,0 +1,5 @@
+# AutoStop
+# How long (in seconds) should the server wait after starting if no players connect?
+startDelay: 300
+# How long (in seconds) should the server wait after the last player disconnects?
+disconnectDelay: 300

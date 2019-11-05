@@ -1,0 +1,5 @@
+name: AutoStop
+version: 1.0
+main: net.pdevita.autostop.AutoStop
+api-version: 1.14
+author: pmdevita
